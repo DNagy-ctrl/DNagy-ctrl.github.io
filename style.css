@@ -310,7 +310,7 @@ First gallery attempt
 }
 
 .gallery > div{
-    columns:5 175px;
+    columns:5 160px;
     gap:1rem;
     padding-top: 1.25rem;
 }
